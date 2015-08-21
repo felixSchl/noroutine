@@ -1,0 +1,27 @@
+{
+  "name": "noroutine",
+  "version": "0.0.0",
+  "description": "Bluebird.coroutine wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixschl/noroutine.git"
+  },
+  "keywords": [
+    "coroutine",
+    "bluebird",
+    "es6"
+  ],
+  "author": "Felix Schlitter <felixschlitter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixschl/noroutine/issues"
+  },
+  "homepage": "https://github.com/felixschl/noroutine#readme",
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  }
+}
